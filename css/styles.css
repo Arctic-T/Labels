@@ -1,0 +1,23 @@
+.col-7 {
+  text-align: justify;
+  background-color: #e1dada;
+  padding: 30px;
+  border: 1px solid #d7d1d1;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+form {
+  text-align: justify;
+  background-color: #f0e3cb;
+  padding: 30px;
+  border: 1px solid #f5dbaa;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+#noLabels,
+#alreadyInList,
+#notInList {
+  display: none;
+}
